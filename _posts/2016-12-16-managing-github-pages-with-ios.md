@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Managing GitHug Pages with iOS"
-date: 2016-12-15
+date: 2016-12-16
 ---
 
 This post was created with the iOS app [Working Copy - Powerful Git client av Anders Borum]
