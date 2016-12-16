@@ -6,3 +6,9 @@ title: Mikael Svensson
 	<h1>Mikael Svensson</h1>
 	<p>Digital creator with a profession in web strategies, data analysis, UX and content management systems. Currently exploring iOS, Fujifilm photography and producing music in Logic.</p>
 </div>
+<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
