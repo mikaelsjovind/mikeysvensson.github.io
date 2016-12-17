@@ -23,8 +23,4 @@ You can also use HTML if you want to specify more attributes, such as width.
 
 I added this to my CSS instead.
 
-`
-img {
-	width: 100%;
-}
-`
+`img { width: 100%; }`
