@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Managing GitHub Pages with iOS"
 date: 2016-12-16
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Images in Markdown and Jekyll on Github Pages"
 date: 2016-12-17
 ---

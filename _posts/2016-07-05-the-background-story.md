@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Background Story"
 date: 2016-07-05
 ---
