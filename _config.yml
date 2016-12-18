@@ -3,9 +3,8 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 defaults:
-	-
-		scope:
-			type: "posts"
-		values:
-			layout: "post"
+	scope:
+		type: "posts"
+	values:
+		layout: "post"
 			
