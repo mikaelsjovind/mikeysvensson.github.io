@@ -7,7 +7,7 @@ date: 2016-12-18
 
 Jekyll has a site variable called [site.static_files](http://jekyllrb.com/docs/static-files/). A static file is a file that does not contain any YAML front matter. These include images, PDFs, and other un-rendered content.
 
-You can use this variable to display images you have in a specific folder. In the example I iterate over all files and only output the ones with /image/ in the file path. 
+You can use this variable to display images you have in a specific folder. In this example I iterate over all files and only output the ones with /image/ in the file path. 
 
 {% raw %} 
 	{% for file in site.static_files %}
