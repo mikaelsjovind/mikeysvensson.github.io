@@ -1,6 +1,5 @@
 ---
 title: "The Background Story"
-layout: post
 date: 2016-07-05
 ---
 
