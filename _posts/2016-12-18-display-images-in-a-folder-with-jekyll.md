@@ -1,5 +1,5 @@
 ---
-title: "Display image in a folder with Jekyll"
+title: "Display images in a folder with Jekyll"
 date: 2016-12-18
 ---
 
