@@ -11,4 +11,8 @@ title: Mikael Svensson
 		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
-<p>{% site.static_files %}</p>
+<p>
+	{% for file in site.static_files %}
+		{{ file.name }}
+	{% endfor %}
+</p>
