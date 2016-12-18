@@ -14,8 +14,7 @@ title: Mikael Svensson
 <ul>
 	{% for file in site.static_files %}
 		{% if file.path contains '/images/' %}
-		<li>{{ file.name }} - {{ file.path }}</li>
-		<li>![{{file.name}}]({{ file.path }})</li>
+		<div><img src="{{ file.path }}"/></div>
 		{% endif %}
 	{% endfor %}
 </ul>
