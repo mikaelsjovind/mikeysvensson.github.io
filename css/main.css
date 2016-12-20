@@ -8,17 +8,17 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 3.129em;
+	font-size: 1.953em;
 	line-height: 1.2;
 } 
 
 h2 {
-	font-size: 2.2253em;	
+	font-size: 1.563em;	
 	
 } 
 
 h3 {
-	font-size: 1.769em;	
+	font-size: 1.25em;	
 } 
 
 body {
@@ -88,15 +88,15 @@ img {
 	}
 	
 	h1 {
-		font-size: 2.3353em;
+		font-size: 1.1953em;
 		line-height: 1.2;	
 	}
 	
 	h2 {
-		font-size: 1.769em;
+		font-size: 1.1563em;
 	}
 	
 	h3 {
-		font-size: 1.33em;
+		font-size: 1.25em;
 	}
 }
