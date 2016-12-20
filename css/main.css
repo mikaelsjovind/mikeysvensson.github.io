@@ -1,5 +1,6 @@
 body {
-	font-size: 16px;	
+	font-size: 18px;	
+	font-family: '-apple-system', 'BlinkMacSystemFont', 'Roboto', 'Helvetica', 'Sans-serif';
 }
 
 h1, h2, h3 {
