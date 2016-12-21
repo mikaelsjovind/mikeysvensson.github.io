@@ -3,7 +3,7 @@ title: "Convert PDF to JPG on iOS"
 date: 2016-12-21
 ---
 
-![Merry Christmas](2016-12-21-merry-christmas.jpg)
+![Merry Christmas](/images/2016-12-21-merry-christmas.jpg)
 
 I created the above christmas card with [Canva](https://appsto.re/se/hfFF1.i). The only export option was PDF but I want my relatives to see the image instantly when receiving their email so I was looking for a way to convert the PDF to a jpg-file. I though the [Workflow](https://appsto.re/se/2IzJ2.i) app could handle it but [apparently not](https://www.reddit.com/r/workflow/comments/3rnpr4/save_pdf_to_photos/) so I came up with my own solution. I looked into my folder of apps related to graphics and there I found [Pixlemator](https://appsto.re/se/lUBh3.i). After exporting the PDF from [Canva](https://appsto.re/se/hfFF1.i) to iCloud drive I could then open it in [Pixlemator](https://appsto.re/se/lUBh3.i) and from there export it to a jpg-file.
 
