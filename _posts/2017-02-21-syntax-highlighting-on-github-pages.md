@@ -56,7 +56,9 @@ If you are doing a responsive site you might want to add some CSS to make the co
 }
 ```
 
-Next it's time to write some code blocks in your markdown file. To do this you write three backticks followed by the language you want to highlight. The above code block was create with the markdown below:
+Next it's time to write some code blocks in your markdown file. To do this you write three backticks before and after the code block you want to highlight. To specify a specific syntax highlight follow the beginning backticks with the language you are using.
+
+The above code block was create with the markdown below:
 
 ```markdown
 I use the following CSS:
@@ -67,8 +69,6 @@ I use the following CSS:
 	background-color:#efefef;
 	width:100%;
 }
-```
-```markdown
 ```
 ```
 
