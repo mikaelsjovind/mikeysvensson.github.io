@@ -12,8 +12,26 @@ highlighter: rouge
 ```
 
 This will include specific classes to your rendered HTML-markup when you use syntax highlighting. 
+
 ```html
 <a href="www.google.com">Google</a>
+```	
+
+If you inspect the HTML-markup of the above code it will look like below:
+
+```html
+<div class="language-html highlighter-rouge">
+	<pre class="highlight">
+		<code>
+			<span class="nt">&lt;a</span> 
+			<span class="na">href=</span>
+			<span class="s">"www.google.com"</span>
+			<span class="nt">&gt;</span>
+			Google
+			<span class="nt">&lt;/a&gt;</span>
+		</code>
+	</pre>
+</div>
 ```
 
 To make use of these classes you need to add some CSS-styles.
