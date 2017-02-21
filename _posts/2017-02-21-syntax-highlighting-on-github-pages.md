@@ -49,20 +49,4 @@ I use the following CSS:
 {% endraw %}
 ```
 
-If you want to highlight Liquid code you need to use raw tags like below:
-
-``` liquid
-{% raw %}
-	{% raw %}
-{% endraw %}
-{% raw %}
-	{% for file in site.static_files %}
-		{% if file.path contains '/images/' %}
-			<div><img src="{{ file.path }}"/></div>
-		{% endif %}
-	{% endfor %}
-{% endraw %}
-{% raw %}
-	{% endraw %}
-{% endraw %}
-```
+If you want to highlight Liquid code you need to use a tag like &#123;% raw %&#125;  &#123;% endraw %&#125; around your code.
