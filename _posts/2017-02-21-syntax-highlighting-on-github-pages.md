@@ -68,6 +68,8 @@ I use the following CSS:
 	width:100%;
 }
 ```
+```markdown
+```
 ```
 
 If you want to highlight Liquid code you need to use a tag like &#123;% raw %&#125;  &#123;% endraw %&#125; around your code.
