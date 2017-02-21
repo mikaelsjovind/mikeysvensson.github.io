@@ -54,11 +54,13 @@ If you want to highlight Liquid code you need to use raw tags like below:
 ``` liquid
 {% raw %}
 {% raw %}
+{% endraw %}
 	{% for file in site.static_files %}
 		{% if file.path contains '/images/' %}
 			<div><img src="{{ file.path }}"/></div>
 		{% endif %}
 	{% endfor %}
+{% raw %}
 {% endraw %}
 {% endraw %}
 ```
