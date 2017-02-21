@@ -68,6 +68,7 @@ I use the following CSS:
 	background-color:#efefef;
 	width:100%;
 }
+```
 {% endraw %}
 ```
 
