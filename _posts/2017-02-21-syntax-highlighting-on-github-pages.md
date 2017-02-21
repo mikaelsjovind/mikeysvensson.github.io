@@ -3,7 +3,7 @@ title: "Syntax highlighting on Github Pages"
 date: 2017-02-21
 ---
 
-![Up on the hill](/images/2016-12-13-the-hill.jpeg)
+![Desk in the sun](/images/2017-02-22-desk-in-the-sun.jpeg)
 
 Setup your config file _config.yml to use:
 ``` 
