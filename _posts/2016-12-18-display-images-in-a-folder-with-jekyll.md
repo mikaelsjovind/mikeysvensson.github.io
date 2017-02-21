@@ -15,4 +15,4 @@ You can use this variable to display images you have in a specific folder. In th
 			<div><img src="{{ file.path }}"/></div>
 		{% endif %}
 	{% endfor %}
-{% highlight %}
+{% endhighlight %}
