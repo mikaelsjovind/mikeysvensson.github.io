@@ -59,15 +59,17 @@ If you are doing a responsive site you might want to add some CSS to make the co
 Next it's time to write some code blocks in your markdown file. To do this you write three backticks followed by the language you want to highlight. The above code block was create with the markdown below:
 
 ```markdown
-{% raw %}
-I use the following CSS:
 
+I use the following CSS:
+{% raw %}
 ```css
+{% endraw %}
 .highlighter-rouge {
 	overflow:scroll; 
 	background-color:#efefef;
 	width:100%;
 }
+{% raw %}
 ```
 {% endraw %}
 ```
